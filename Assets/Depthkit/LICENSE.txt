@@ -1,0 +1,138 @@
+SOFTWARE DEVELOPMENT KIT LICENSE AGREEMENT
+
+The text of this license (this “License”) may be found at: www.depthkit.tv/license-agreement-v1
+
+Thank you for your interest in using the Scatter Software Development Kit (the “SDK”). In order to obtain
+and use the SDK, you must first agree to the terms of this License. If you do not agree to the terms of this
+License, then you may not use the SDK.
+
+SDK LICENSE
+1. Subject to the terms and conditions of this License, Scatter hereby
+grants to you a worldwide, non-exclusive, royalty-free, sublicenseable license to use, reproduce, modify,
+embed and redistribute (subject to restrictions below) the software contained in the SDK, including, but
+not limited to, the samples, headers, documentation and source code. This License is subject to the
+following terms and conditions:
+1.1 This license grants you the non-exclusive license and right to use the SDK to develop
+methods to play back content produced in the software suite known as Depth Kit (such content referred
+to as your “Content”) in the Unity game engine, as well as other features that may be added from time to
+time by Scatter. You may not use the SDK to connect Depth Kit to any software platform or game engine
+other than Unity.
+1.2 For avoidance of doubt, when you use the SDK in or with your Content, you retain all
+rights to your Content, and you have no obligations to share or license your Content (including your
+source and object code) to Scatter or any third parties; provided, however, Scatter retains all rights to the
+SDK and the headers, libraries and APIs of Depth Kit and other tools made available by Scatter, including
+those that may be incorporated into your Content by virtue of your producing it through Depth Kit.
+1.3 You agree not to commit any act intended to (a) interfere with the normal operation of
+Depth Kit or the SDK, (b) provide software to Depth Kit users or developers that would induce breach of
+any Scatter agreements, or (c) provide software to Scatter or Depth Kit users that contains malware,
+viruses, hacks, bots, Trojan horses, or other malicious code.
+1.4 You may not use the SDK for any purpose not expressly permitted by this License. You
+may not:
+
+a. decompile;
+b. reverse engineer;
+c. disassemble; or
+d. attempt to derive the source code of any part of the SDK where source code is
+not directly provided to you, or any other software or firmware provided to you by Scatter in binary
+form (except as and only to the extent any foregoing restriction is prohibited by applicable law).
+
+REDISTRIBUTION
+2. Subject to the terms and conditions of this License, your license to redistribute and sublicense the SDK
+is also expressly made subject to the following conditions:
+2.1 You may sublicense and redistribute the binary or object code form of the SDK in whole
+for no charge or as part of a for-charge piece of Content; provided, however, you may only license,
+sublicense or redistribute the binary or object code of the SDK (and not the SDK’s source code) in its
+entirety. The SDK, including its associated libraries, and your Content that includes any portion of the
+SDK, may only be used with Depth Kit and may not be used, licensed, or sublicensed to interface with
+software that is not authorized and approved by Scatter;
+2.2 You must include with all such redistributed or sublicensed SDK code the following copyright
+notice: “Copyright 2016-2018 Scatter Inc. All rights reserved.”;
+2.3 You must give any other recipients of the SDK a copy of this License as such recipients,
+licensees or sublicensees may only use the SDK subject to the terms of this License and such recipient's,
+licensee's or sublicensee's agreement to and acceptance of this License with Scatter; and
+2.4 The SDK includes a “LICENSE” text file (the “License Notice”), and any SDK distribution that
+you distribute must include a copy of this License with the License Notice.
+
+GENERAL PROVISIONS
+3. Additional Materials
+3.1 Scatter may include in this SDK additional content (e.g., samples) for demonstration,
+references or other specific purposes. Such content will be clearly marked in the SDK and is subject to
+any included terms and conditions.
+3.2 Your use of third-party materials included in the SDK, or which the SDK may be dependent
+upon (including without limitation Unity), may be subject to other terms and conditions typically found in
+separate third-party license agreements or &quot;READ ME&quot; files included with such third-party materials. To
+the extent such other terms and conditions conflict with the terms and conditions of this License, the
+former will control with respect to the applicable third-party materials. The terms of licensing the Unity
+game engine can be found here: https://unity3d.com/legal/terms-of-service/software.
+4. THE SDK AND ANY COMPONENT THEREOF ARE PROVIDED “AS IS” AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+EVENT SHALL Scatter AS THE COPYRIGHT OWNER OR ITS CONTRIBUTORS BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SDK, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. SOME JURISDICTIONS DO NOT PERMIT THE
+EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO YOU MAY HAVE ADDITIONAL
+RIGHTS.
+5. This License does not grant permission to use the trade names, trademarks, service marks, or product
+names of Scatter, including without limitation “Depth Kit,” except as required for reasonable and customary
+use in describing the origin of the SDK, and reproducing the content of the License Notice file. Scatter
+reserves all rights not expressly granted to you under this License. Neither Scatter’s name nor the names
+of Scatter’s contributors, licensors, employees, or contractors, may be used to endorse or promote
+products developed using the SDK without specific prior written permission of Scatter.
+6. You are responsible for ensuring that your use of the SDK and your Content complies with all
+applicable laws (including privacy laws) wherever your Content is made available. You acknowledge and
+agree that you are solely responsible for any health and safety issues arising from your Content.
+7. Your acceptance of the terms and conditions of this License in and of itself and for all of your Content
+may be evidenced by your usage of the SDK or acceptance of this License. As this License is updated for
+future releases of the SDK, you agree to abide by and meet all requirements of future updates of this
+License for those future SDK releases, with acceptance evidenced by usage of the SDK or any element
+thereof and the future updates of this License will apply for your Content that may be developed for or
+with that future SDK or any element thereof (i.e., you cannot sidestep out of the requirements of future
+updates of the License by developing against an older release of the SDK or License). You acknowledge
+that future versions of the SDK may be provided for a fee or otherwise under substantially different terms
+from those provided hereunder.
+8. Scatter reserves the right to terminate this License and all your rights hereunder immediately in the
+event you materially breach this License.
+9. Furthermore, Scatter also reserves the right to cancel or terminate this License for any of the following
+reasons:
+a. Intellectual property infringement by you for your Content that is used with or by
+the SDK;
+b. Content that violates applicable law;
+c. Health and safety issues associated with your Content;
+d. Use of the SDK with a commercial product other than Depth Kit and Unity; and
+e. Failure to provide required notices as set forth above.
+10. You agree to fully indemnify Scatter from any and all losses, costs, damages and expenses (including
+reasonable attorney's fees) arising out of your Content or any breach of this License.
+11. Scatter may discontinue or change functionality of Depth Kit or the SDK at any time, and your
+continued use of Depth Kit or the SDK or use of any modified or additional services in connection
+therewith is conditioned upon your adherence to the terms of this License, as modified by Scatter from
+time to time, as well as any additional license agreements necessitated by additional features.
+12. In the event any provision of this License is determined to be invalid, prohibited or unenforceable by a
+court or other body of competent jurisdiction, this License shall be construed as if such invalid, prohibited
+or unenforceable provision has been more narrowly drawn so as not to be invalid, prohibited or
+unenforceable.
+13. You may not assign any rights or obligations under this License without the advance written consent
+of Scatter, which may be withheld in its sole discretion. Scatter may assign its rights or obligations under
+this License in its sole discretion.
+14. Failure of either party at any time to enforce any of the provisions of this License will not be construed
+as a waiver of such provisions or in any way affect the validity of this License or parts thereof.
+15. Your remedies under this License shall be limited to the right to collect money damages, if any, and
+you hereby waive your right to injunctive or other equitable relief.
+16. You will comply with all applicable export control laws of the United States and any other applicable
+governmental authority, including without limitation, the U.S. Export Administration Regulations. You
+agree that this License and the SDK and accompanying documentation are Scatter's confidential
+information (and is not publicly available), and you will not use it, disclose it or make it available to others
+except in accordance with the terms of this License.
+17. This License shall be governed by the laws of the State of New York, without giving effect to choice of
+law principles. All disputes relating to this License shall be resolved by binding non-appearance-based
+arbitration before a single arbitrator in New York County, New York. The arbitration shall be conducted in
+accordance with the rules and procedures of JAMS then in effect, and the judgment of the arbitrator shall
+be final and capable of entry in any court of competent jurisdiction. You and Scatter agree to submit to the
+personal jurisdiction of the courts located within New York County, New York in connection with any
+entrance of an arbitrator’s judgment or decision or any dispute with respect to the arbitration process or
+procedure or Scatter’s exercise of its equitable rights or remedies.
+
+Effective as of October 7, 2016

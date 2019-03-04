@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f73dae2ada95c40b22a02fbd57a8dd, type: 3}
+  m_Name: Test.Metadata
+  m_EditorClassIdentifier: 
+  depthkitMetadata:
+    _versionMajor: 0
+    _versionMinor: 3
+    format: perpixel
+    textureWidth: 512
+    textureHeight: 848
+    boundsCenter: {x: 0, y: 0, z: 0.890155}
+    boundsSize: {x: 1.7593999, y: 1.457003, z: 0.7389101}
+    perspectives:
+    - depthImageSize: {x: 512, y: 424}
+      depthPrincipalPoint: {x: 254.503, y: 205.052}
+      depthFocalLength: {x: 366.557, y: 366.557}
+      farClip: 1.25961
+      nearClip: 0.5207
+      extrinsics:
+        e00: 1
+        e01: 0
+        e02: 0
+        e03: 0
+        e10: 0
+        e11: 1
+        e12: 0
+        e13: 0
+        e20: 0
+        e21: 0
+        e22: 1
+        e23: 0
+        e30: 0
+        e31: 0
+        e32: 0
+        e33: 1
+      extrinsicsInv:
+        e00: 0
+        e01: 0
+        e02: 0
+        e03: 0
+        e10: 0
+        e11: 0
+        e12: 0
+        e13: 0
+        e20: 0
+        e21: 0
+        e22: 0
+        e23: 0
+        e30: 0
+        e31: 0
+        e32: 0
+        e33: 0
+      crop: {x: 0, y: 0, z: 1, w: 1}
+      clipEpsilon: 0.00676675
+      cameraNormal: {x: 0, y: 0, z: 0}
+      cameraCenter: {x: 0, y: 0, z: 0}
