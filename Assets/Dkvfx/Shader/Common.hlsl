@@ -36,7 +36,7 @@ float4x4 _Extrinsics;
 // Check if a depth sample is valid or not.
 bool ValidateDepth(float3 depthSample)
 {
-    return dot(depthSample, 1) > 0.001;
+    return dot(depthSample, 1) > 0.3;
 }
 
 // Object space position from depth sample
