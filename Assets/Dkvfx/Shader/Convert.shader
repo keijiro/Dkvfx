@@ -28,7 +28,7 @@ Shader "Hidden/Dkvfx/Convert"
 
     void Fragment(
         float4 position : SV_Position,
-        float3 texcoord : TEXCOORD0,
+        float2 texcoord : TEXCOORD0,
         out float4 out_position : SV_Target0,
         out float4 out_color : SV_Target1
     )

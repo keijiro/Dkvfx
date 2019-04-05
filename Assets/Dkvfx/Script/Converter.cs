@@ -51,15 +51,15 @@ namespace Dkvfx
                 _material.hideFlags = HideFlags.DontSave;
             }
 
-            // Shader attributes
-            _metadata.Apply(_material);
-            _material.mainTexture = _source.texture;
-            _material.SetPass(0);
-
             // Multiple render target
             _mrt[0] = _positionMap.colorBuffer;
             _mrt[1] = _colorMap.colorBuffer;
             Graphics.SetRenderTarget(_mrt, _positionMap.depthBuffer);
+
+            // Shader attributes
+            _metadata.Apply(_material);
+            _material.mainTexture = _source.texture;
+            _material.SetPass(0);
 
             // Invoke the shader
             Graphics.DrawProcedural(MeshTopology.Triangles, 3, 1);
