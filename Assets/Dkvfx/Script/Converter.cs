@@ -62,7 +62,7 @@ namespace Dkvfx
             _material.SetPass(0);
 
             // Invoke the shader
-            Graphics.DrawProcedural(MeshTopology.Triangles, 3, 1);
+            Graphics.DrawProceduralNow(MeshTopology.Triangles, 3, 1);
         }
 
         #endregion
