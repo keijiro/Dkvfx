@@ -5,7 +5,7 @@
     "com.unity.timeline": "1.0.0",
     "com.unity.visualeffectgraph": "5.13.0-preview",
     "jp.keijiro.klak": "https://github.com/keijiro/Klak.git#upm",
-    "jp.keijiro.klak.hap": "https://github.com/keijiro/KlakHap.git#upm-2019.1",
+    "jp.keijiro.klak.hap": "https://github.com/keijiro/KlakHap.git#upm",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.audio": "1.0.0",
     "com.unity.modules.director": "1.0.0",
@@ -26,8 +26,8 @@
       "revision": "upm"
     },
     "jp.keijiro.klak.hap": {
-      "hash": "e02f426c51cd673d8d4df2137ea9fe7f6a1590fb",
-      "revision": "upm-2019.1"
+      "hash": "64740a2c6356dbbd03201caefbb0fc42233dbfa3",
+      "revision": "upm"
     }
   }
 }
