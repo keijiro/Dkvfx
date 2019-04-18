@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.unity.package-manager-ui": "2.1.2",
-    "com.unity.render-pipelines.high-definition": "5.10.0-preview",
+    "com.unity.render-pipelines.high-definition": "5.13.0-preview",
     "com.unity.timeline": "1.0.0",
-    "com.unity.visualeffectgraph": "5.10.0-preview",
+    "com.unity.visualeffectgraph": "5.13.0-preview",
     "jp.keijiro.klak": "https://github.com/keijiro/Klak.git#upm",
     "jp.keijiro.klak.hap": "https://github.com/keijiro/KlakHap.git#upm-2019.1",
     "com.unity.modules.animation": "1.0.0",
