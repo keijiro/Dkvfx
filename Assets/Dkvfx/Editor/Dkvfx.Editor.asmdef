@@ -1,0 +1,15 @@
+{
+    "name": "Dkvfx.Editor",
+    "references": [
+        "GUID:1c5aa4dd6ccceb2bab62d4ac2e9bb5d8"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Dkvfx",
+    "references": [
+        "GUID:50856b04dc3cdca5fbe04f7e67aafdc6",
+        "GUID:63ee2b3a69c095740bf1e4ff4d11f294"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
