@@ -63,6 +63,9 @@ namespace Dkvfx
 
             // Invoke the shader
             Graphics.DrawProceduralNow(MeshTopology.Triangles, 3, 1);
+
+            // Render target deactivation
+            Graphics.SetRenderTarget(null);
         }
 
         #endregion
