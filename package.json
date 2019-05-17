@@ -1,0 +1,10 @@
+{
+    "author": "Keijiro Takahashi",
+    "dependencies": { },
+    "description": "Depthkit + Visual Effect Graph",
+    "displayName": "Dkvfx",
+    "name": "jp.keijiro.dkvfx",
+    "unity": "2019.1",
+    "unityRelease": "2f1", 
+    "version": "1.0.0"
+}
