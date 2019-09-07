@@ -21,7 +21,6 @@
     "com.unity.package-manager-ui": "2.2.0",
     "com.unity.render-pipelines.high-definition": "6.9.1-preview",
     "com.unity.timeline": "1.1.0",
-    "jp.keijiro.klak.hap": "0.1.15",
     "jp.keijiro.klak.motion": "1.0.0",
     "jp.keijiro.recorder.ffmpeg": "0.0.2"
   }
