@@ -1,0 +1,13 @@
+{
+    "author": "Keijiro Takahashi",
+    "dependencies": { },
+    "description": "Depthkit volumetric video importer for Visual Effect Graph",
+    "displayName": "Dkvfx",
+    "keywords": [ "unity" ],
+    "license": "SEE LICENSE IN LICENSE",
+    "name": "jp.keijiro.dkvfx",
+    "repository": "github:keijiro/Dkvfx",
+    "unity": "2019.2",
+    "unityRelease": "0f1",
+    "version": "0.1.0"
+}
